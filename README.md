@@ -15,7 +15,7 @@ Technologies used in the project: **Python** with libraries:
 - PIL - a module for image handling.
 
 Start picture:
-
+  
 ![1](https://github.com/weronikaabednarz/Forest-Fire-Simulation/blob/main/images/mapa.jpg)
 
 Action picture:
