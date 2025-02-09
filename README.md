@@ -6,7 +6,7 @@ The project is a simulation of a forest fire using the 2D cellular automat metho
 - transition rules: 
 tree -> burning tree with probability p if it has a burning tree as a neighbour, with analogously calculated probability: burning tree -> burnt tree, burnt tree -> ground, ground -> regrown trees,
 - visualisation of simulation results.
- 
+
 Technologies used in the project: **Python** with libraries:
 - numpy - a library for scientific calculations, operations on multidimensional arrays and matrices,
 - pygame - a set of Python modules designed for writing video games. Pygame adds functionality on top of the excellent SDL library,
