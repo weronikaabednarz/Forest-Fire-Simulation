@@ -1,5 +1,5 @@
 # Forest Fire Simulation 
-  
+
 The project is a simulation of a forest fire using the 2D cellular automat method, and includes:
 - dropping a bomb in random posiotions using "space", extinguishing the fire with belts using the keys from 1 to 0,
 - cell states:  "water" - blue, "tree" - green, "burning tree" - red, "burnt tree" - black, "earth" brown,
